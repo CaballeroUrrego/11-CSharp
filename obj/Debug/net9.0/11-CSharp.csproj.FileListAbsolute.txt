@@ -1,0 +1,14 @@
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\bin\Debug\net9.0\11-CSharp.exe
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\bin\Debug\net9.0\11-CSharp.deps.json
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\bin\Debug\net9.0\11-CSharp.runtimeconfig.json
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\bin\Debug\net9.0\11-CSharp.dll
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\bin\Debug\net9.0\11-CSharp.pdb
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\11-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\11-CSharp.AssemblyInfoInputs.cache
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\11-CSharp.AssemblyInfo.cs
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\11-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\11-CSharp.dll
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\refint\11-CSharp.dll
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\11-CSharp.pdb
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\11-CSharp.genruntimeconfig.cache
+C:\Users\se302\Documents\PROGRAMACION\11-CSharp\obj\Debug\net9.0\ref\11-CSharp.dll
